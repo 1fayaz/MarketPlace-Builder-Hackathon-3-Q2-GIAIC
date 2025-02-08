@@ -1,0 +1,25 @@
+Test Case ID,Test Description,Steps,Expected Result,Actual Result,Status,Severity,Remarks
+TC001,Verify Product Page,Open product page,Product details load correctly,Product details loaded successfully,Passed,Low,Success
+TC002,Add to Cart,Click 'Add to Cart',Product added to cart,Product successfully added to cart,Passed,Low,Success
+TC003,Price Display,Open product page,Prices display accurately,Prices displayed correctly,Passed,Low,Success
+TC004,Empty Cart,Go to cart,'No items in cart' message displays,No items in cart message displayed,Passed,Low,Success
+TC006,Checkout Workflow,Complete checkout flow,Checkout completes without errors,Checkout completed successfully,Passed,High,Success
+TC007,Add Product to Wishlist,Click 'Add to Wishlist',Product added to wishlist,Product added successfully,Passed,Low,Success
+TC008,Search Functionality,Search for a product,Relevant products are displayed,Relevant products displayed,Passed,Medium,Success
+TC009,Cart Persistence,Add product to cart,Cart persists after page reload,Cart persists correctly,Passed,Medium,Success
+TC010,Checkout Form Validation,Submit form with missing information,Form displays error messages,Error messages displayed,Passed,High,Success
+TC011,Responsive Design,View on mobile device,Page layout adjusts for mobile,Page layout adjusted correctly,Passed,Low,Success
+TC013,Product Detail,Click on product detail,Product details are displayed correctly,Product details displayed correctly,Passed,Low,Success
+TC014,Product Filter,Apply product filter,Filtered products are displayed correctly,Filtered products displayed correctly,Passed,Medium,Success
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+TC021,Error Handling,Trigger an error,Error message is displayed,Error message displayed,Passed,High,Success
+,,,,,,,
+,,,,,,,
+TC024,Notifications,Add to cart,Notification is displayed for cart action,Notification displayed successfully,Passed,Low,Success
